@@ -1,0 +1,5 @@
+Ok, this is the top-level big repo for the bot.academy project.
+
+`server/` contains a node server that runs the bot.
+`parsers/` contains 'personality' or 'intelligence' modules for use with the bot.
+`adapters/` contains logic to make the bot run on different services (i.e. there'll be a twitter adapter, an sms adapter, etc)

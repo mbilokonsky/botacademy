@@ -1,0 +1,8 @@
+{
+  "botname": "bonzo",
+  "purpose": "to pursue excellence in all things",
+  "parser": "capitalize",
+  "adapters": [
+    "twitter"
+  ]
+}

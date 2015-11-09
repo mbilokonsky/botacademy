@@ -1,0 +1,25 @@
+{
+  "name": "botacademy",
+  "version": "1.0.0",
+  "description": "starter project for bot.academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mbilokonsky/botacademy"
+  },
+  "author": "@mykola & @ahandvanish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbilokonsky/botacademy/issues"
+  },
+  "homepage": "https://github.com/mbilokonsky/botacademy",
+  "dependencies": {
+    "@reactivex/rxjs": "^5.0.0-alpha.8",
+    "event-emitter": "^0.3.4",
+    "rx": "^4.0.6",
+    "twit": "^2.1.1"
+  }
+}
