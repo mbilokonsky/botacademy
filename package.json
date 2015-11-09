@@ -4,6 +4,7 @@
   "description": "starter project for bot.academy",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "test"
   },
   "repository": {
@@ -11,7 +12,7 @@
     "url": "https://github.com/mbilokonsky/botacademy"
   },
   "author": "@mykola & @ahandvanish",
-  "license": "ISC",
+  "license": "private",
   "bugs": {
     "url": "https://github.com/mbilokonsky/botacademy/issues"
   },
